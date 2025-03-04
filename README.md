@@ -6,6 +6,8 @@
  - Python 3.xx
  - Required modules (requests, colorama)
 
+**cPanel List Format:** ``https://domain.com:2083|user|pass``
+
 **Process:**
   - Run ``python crack.py``
   - Provide cPanel List Ex: ``cPanel.txt``
