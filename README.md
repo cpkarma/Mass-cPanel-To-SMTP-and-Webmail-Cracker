@@ -1,4 +1,5 @@
-## Webmail & SMTP Generator from cPanel List
+## Mass cPanel To SMTP and Webmail Cracker
+
 🚀 Automate Webmail & SMTP Generation from a cPanel list effortlessly!
 
 **Requirements:**
