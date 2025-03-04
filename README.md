@@ -2,7 +2,7 @@
 🚀 Automate Webmail & SMTP Generation from a cPanel list effortlessly!
 
 **Requirements:**
- - Python 3
+ - Python 3.xx
  - Required modules (requests, colorama)
 
 **Process:**
