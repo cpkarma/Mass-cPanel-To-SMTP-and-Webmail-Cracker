@@ -1,6 +1,10 @@
 ## Webmail & SMTP Generator from cPanel List
 🚀 Automate Webmail & SMTP Generation from a cPanel list effortlessly!
 
+Requirements:
+ - Python 3
+ - Required modules (requests, colorama)
+
 🔹 **Features:**
 - ✅ Extracts and generates Webmail & SMTP credentials
 - ✅ Works with cPanel account lists
